@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Villain Activities
+title: Unmasking Lance- The Unlikely Villain Among Us
 subtitle: Some funny villain activities I've been up to.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
