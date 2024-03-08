@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Encoding with Emojis
-subtitle: There's lots to learn!
+title: Secret Message to Aaron
+subtitle: In Minh, we trust.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
