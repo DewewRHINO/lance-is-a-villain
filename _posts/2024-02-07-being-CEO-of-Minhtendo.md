@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
-author: Bill Smith
+author: Lance Shinigawa
 ---
 
 # Behind Minhtendo's Innovative Leap: Lance's Vision and Secrets

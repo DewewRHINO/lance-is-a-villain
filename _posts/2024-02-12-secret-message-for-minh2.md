@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
-author: Bill Smith
+author: Lance Shinigawa
 ---
 
 In Minh, we trust. Used binary and morse code for this one Minh hehe.
